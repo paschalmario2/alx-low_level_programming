@@ -6,15 +6,15 @@
  */
 int main(void)
 
-	int z;
+	int i;
 
 	printf("Infinite loop incoming :(\n");
 
 	z = 0;
 	/*
-	 * while (z < 10)
+	 * while (i < 10)
 	 * {
-	 * putchar(z);
+	 * putchar(i);
 	 * }
 	 */
 	printf("Infinite loop avoided! \\o/\n");
