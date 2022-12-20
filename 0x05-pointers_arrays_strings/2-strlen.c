@@ -1,7 +1,6 @@
 #include "main.h"
 /**
- * _strlen - this is to counr the number
- * of bytes in a string.
+ * _strlen - function that return the lenght of a string.
  *
  * @s: this is the input string
  *
