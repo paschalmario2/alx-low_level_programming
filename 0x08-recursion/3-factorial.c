@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * factorial: the multiplication of a number minus the number
+ * factorial - the multiplication of a number minus the number
  * @n: number to find the factorial of.
  * Return: factorial of number
  * -1 if x < 0
